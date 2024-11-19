@@ -3,12 +3,12 @@
 
 ## Dependencias do Projeto
 > Bibliotecas necessarias
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-import numpy as np
+> import pandas as pd
+> import matplotlib.pyplot as plt
+> import seaborn as sns
+> import numpy as np
 
-> Pode ser utilizado qualquer ambiente virtual JavaScript para execução
+> Para Rodar o codigo é necessario instalar o Jupiter
 
 ## Procedimentos
 > Ao executar o codigo sera criado um arquivo chamado <code>filmes.ipynb</code> onde sera colocado o resultado
