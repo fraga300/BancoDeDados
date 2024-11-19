@@ -2,11 +2,7 @@
 ## feito por Gabriel e Joao
 
 ## Dependencias do Projeto
-> Bibliotecas necessarias
-# import pandas as pd
-# import matplotlib.pyplot as plt
-# import seaborn as sns
-# import numpy as np
+> Bibliotecas necessarias pandas, matplotlib.pyplot, seaborn e numpy 
 
 > Para Rodar o codigo é necessario instalar o Jupiter
 
