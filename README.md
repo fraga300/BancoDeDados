@@ -2,7 +2,12 @@
 ## feito por Gabriel e Joao
 
 ## Dependencias do Projeto
-> Nenhuma Biblioteca é necessaria <br>
+> Bibliotecas necessarias
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import numpy as np
+
 > Pode ser utilizado qualquer ambiente virtual JavaScript para execução
 
 ## Procedimentos
